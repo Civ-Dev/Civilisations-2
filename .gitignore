@@ -1,9 +1,10 @@
 # Ignore everything:
 *.*
-# Except this: 
+# Except this:
 !.gitignore
 !/mods/**
 !/config/**
 !/resourcepacks/**
 !/scripts/**
 !/structures/**
+!README.*
