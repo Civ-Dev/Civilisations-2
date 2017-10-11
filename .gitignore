@@ -16,3 +16,5 @@ config/splash.properties
 config/InvTweaks.cfg
 config/JEI/worldSettings.cfg
 config/splash.properties
+*.dat
+*.dat
