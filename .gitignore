@@ -1,0 +1,9 @@
+# Ignore everything:
+**
+
+!.gitignore
+!/mods/**
+!/config/**
+!/resourcepacks/**
+!/scripts/**
+!/structures/**
