@@ -71,7 +71,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://discord.gg/6rJkK7S"
+				"link" : "https://discord.gg/hunbYNV"
             }
         },				
         "options":
@@ -137,31 +137,31 @@
         }	
     },
     
-    "texts":
+    "labels":
     {
         "Menu":
         {
             "text" : "Menu Created By IsaacOB1",
-            "posX" : -85,
-            "posY" : -20,
-			"fontSize" : .6,
+            "posX" : -124,
+            "posY" : -24,
+			"fontSize" : 0.9,
             "color" : -1,
             "alignment" : "bottom_right"
         },
         "Developed":
         {
             "text" : "Pack Developed By johnfg10 and IsaacOB1",
-            "posX" : -135,
-            "posY" : -10,
-			"fontSize" : .6,
+            "posX" : -199,
+            "posY" : -12,
+			"fontSize" : 0.9,
             "color" : -1,
             "alignment" : "bottom_right"
         },
 		"forge":{
 			"text" : "Minecraft #mcversion#",
             "posX" : 3,
-            "posY" : -19,
-			"fontSize" : .6,
+            "posY" : -22,
+			"fontSize" : .9,
             "color" : -1,
 			"hoverColor" : -1,
             "alignment" : "bottom_left"
@@ -169,8 +169,8 @@
 		"modsloaded":{
 			"text" : "#modsloaded# Mods Loaded",
             "posX" : 3,
-            "posY" : -13,
-			"fontSize" : .6,
+            "posY" : -10,
+			"fontSize" : .9,
             "color" : -1,
 			"hoverColor" : -1,
             "alignment" : "bottom_left"
@@ -178,43 +178,16 @@
 		"modpack":{
 			"text" : "Civilisations 2: The Rebirth",
             "posX" : 3,
-            "posY" : -25,
-			"fontSize" : .6,
+            "posY" : -34,
+			"fontSize" : .9,
             "color" : -1,
 			"hoverColor" : -1,
             "alignment" : "bottom_left"
-		},
-		"newsLine1":{
-			"text" : "",
-            "posX" : -140,
-            "posY" : 5,
-			"fontSize" : 1.3,
-			"color" : -1,
-			"hoverColor" : -1,
-            "alignment" : "top_right"
-		},
-		"newsLine2":{
-			"text" : "",
-            "posX" : -140,
-            "posY" : 19,
-			"fontSize" : 1.3,
-            "color" : -1,
-			"hoverColor" : -1,
-            "alignment" : "top_right"
-		},
-		"newsLine3":{
-			"text" : "",
-            "posX" : -140,
-            "posY" : 33,
-			"fontSize" : .8,
-            "color" : -1,
-			"hoverColor" : 13158400,
-            "alignment" : "top_right"
 		}
     },
     
     "other":
-    {
+    {	
 	        "panorama":
         {
             "images" : "mainmenu:panorama/panorama_%c.png",
