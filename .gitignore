@@ -18,3 +18,9 @@ config/JEI/worldSettings.cfg
 config/splash.properties
 *.dat
 *.dat
+config/JEI/worldSettings.cfg
+config/Weather2/EZGUIConfigClientData.dat
+config/Weather2/EZGUIConfigServerData.dat
+config/splash.properties
+config/JEI/worldSettings.cfg
+config/InvTweaks.cfg
