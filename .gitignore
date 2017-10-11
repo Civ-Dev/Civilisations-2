@@ -8,3 +8,5 @@
 !/scripts/**
 !/structures/**
 !README.*
+
+/config/InvTweaks.cfg
