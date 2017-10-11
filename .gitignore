@@ -8,7 +8,8 @@
 !/scripts/**
 !/structures/**
 !README.*
-
+!/ambience_music/**
+!/resources/**
 /config/InvTweaks.cfg
 config/InvTweaks.cfg
 config/splash.properties
