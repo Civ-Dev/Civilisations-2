@@ -8,3 +8,5 @@
 !/scripts/**
 !/structures/**
 !README.*
+!/ambience_music/**
+!/resources/**
