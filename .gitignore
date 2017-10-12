@@ -25,3 +25,5 @@ config/splash.properties
 config/JEI/worldSettings.cfg
 config/InvTweaks.cfg
 mods/hats/**
+scripts/recipes.zs
+config/JEI/worldSettings.cfg
