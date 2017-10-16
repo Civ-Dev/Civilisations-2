@@ -11,7 +11,7 @@
             "alignment" : "center"
 		}
     },
-    
+
     "buttons":
     {
         "singleplayer":
@@ -23,12 +23,12 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:shortbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "singleplayer"
             }
-        },        
+        },
         "multiplayer":
         {
             "text" : "menu.multiplayer",
@@ -38,12 +38,12 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:shortbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "multiplayer"
             }
-        },        
+        },
         "mods":
         {
             "text" : "Mods",
@@ -53,12 +53,12 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:shortbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "mods"
             }
-        },		
+        },
         "support":
         {
             "text" : "Support",
@@ -68,12 +68,12 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:longbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openLink",
 				"link" : "https://discord.gg/hunbYNV"
             }
-        },				
+        },
         "options":
         {
             "text" : "menu.options",
@@ -83,12 +83,12 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:shortbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "options"
             }
-        },        
+        },
         "quit":
         {
             "text" : "menu.quit",
@@ -98,11 +98,11 @@
             "height" : 20,
 			"alignment" : "center",
 			"texture" : "mainmenu:longbutton.png",
-            "action" : 
+            "action" :
             {
                 "type" : "quit"
             }
-        },	
+        },
         "language":
         {
             "text" : "",
@@ -115,12 +115,12 @@
 			"imageWidth": "40",
 			"imageHeight": "40",
 			"texture" : "mainmenu:lang.png",
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "languages"
             }
-        },        
+        },
         "refresh":
         {
             "text" : "",
@@ -130,18 +130,18 @@
             "height" : 20,
 			"alignment" : "top_right",
             "texture" : "mainmenu:refresh.png",
-            "action" : 
+            "action" :
             {
                 "type" : "refresh"
             }
-        }	
+        }
     },
-    
+
     "labels":
     {
         "Menu":
         {
-            "text" : "Menu Created By IsaacOB1",
+            "text" : "Art Made By IsaacOB1",
             "posX" : -124,
             "posY" : -24,
 			"fontSize" : 0.9,
@@ -185,9 +185,9 @@
             "alignment" : "bottom_left"
 		}
     },
-    
+
     "other":
-    {	
+    {
 	        "panorama":
         {
             "images" : "mainmenu:panorama/panorama_%c.png",
